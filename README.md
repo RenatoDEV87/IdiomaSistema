@@ -11,9 +11,8 @@ Este é um programa simples em **Java** que identifica e exibe o **idioma padrã
 3. [⚙️ Como Funciona](#️-como-funciona)  
 4. [🚀 Como Executar](#-como-executar)  
 5. [🖥️ Exemplo de Execução](#-exemplo-de-execução)  
-6. [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)  
-7. [🤝 Contribuições](#-contribuições)  
-8. [📜 Licença](#-licença)  
+6. [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)   
+7. [📜 Licença](#-licença)  
 
 ---
 
