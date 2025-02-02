@@ -6,17 +6,17 @@ Este é um programa simples em **Java** que identifica e exibe o **idioma padrã
 
 ## 📑 Tabela de Conteúdos
 
-1. [📖 Descrição](#-descrição)  
-2. [💻 Código](#-código)  
-3. [⚙️ Como Funciona](#️-como-funciona)  
-4. [🚀 Como Executar](#-como-executar)  
-5. [🖥️ Exemplo de Execução](#-exemplo-de-execução)  
-6. [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)   
-7. [📜 Licença](#-licença)  
+1. [📖 Descrição](#descrição)  
+2. [💻 Código](#código)  
+3. [⚙️ Como Funciona](#️como-funciona)  
+4. [🚀 Como Executar](#como-executar)  
+5. [🖥️ Exemplo de Execução](#exemplo-de-execução)  
+6. [🛠️ Tecnologias Utilizadas](#️tecnologias-utilizadas)   
+7. [📜 Licença](#licença)  
 
 ---
 
-## 📖 Descrição
+## Descrição
 
 Este programa foi criado para demonstrar o uso da classe `Locale` do Java, que permite capturar informações sobre **idioma e região** do sistema operacional.
 
@@ -24,7 +24,7 @@ O objetivo é mostrar como obter essas informações de forma simples e eficient
 
 ---
 
-## 💻 Código
+## Código
 
 Abaixo está o código-fonte do programa:
 
